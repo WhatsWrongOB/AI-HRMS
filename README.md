@@ -40,6 +40,8 @@
 
 - _Feedback Management ( AI Sentiment Analysis )_
 
+- _AI-Powered Chatbot ( For Admin )_
+
 - _Reports & Analytics ( Attendance, Leave, Complaints )_
 
 ## _Tech Stack_ :
