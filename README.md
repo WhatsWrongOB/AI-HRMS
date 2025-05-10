@@ -44,7 +44,7 @@
 
 ## _Tech Stack_ :
 
-- _MERN Stack _
+- _MERN Stack_
 
 - _Redux for State Management_
 
